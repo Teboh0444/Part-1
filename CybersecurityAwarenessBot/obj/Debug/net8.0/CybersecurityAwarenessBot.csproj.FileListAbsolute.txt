@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\bin\Debug\net8.0\CybersecurityAwarenessBot.exe
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\bin\Debug\net8.0\CybersecurityAwarenessBot.deps.json
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\bin\Debug\net8.0\CybersecurityAwarenessBot.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\bin\Debug\net8.0\CybersecurityAwarenessBot.dll
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\bin\Debug\net8.0\CybersecurityAwarenessBot.pdb
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.dll
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\refint\CybersecurityAwarenessBot.dll
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.pdb
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\CyberGuard\CyberGuard1\CybersecurityAwarenessBot\obj\Debug\net8.0\ref\CybersecurityAwarenessBot.dll
